@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c951e7c-3749-4adb-ba86-a669daff4cc2" name="2080TI">
+        <fileTransfer accessType="SFTP" host="10.12.54.139" port="22" sshConfigId="625b7c3f-9e42-4a51-b770-76c53588a93d" sshConfig="cyan@10.12.54.139:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
